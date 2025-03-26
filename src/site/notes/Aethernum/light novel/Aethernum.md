@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aethernum/light-novel/aethernum/","updated":"2025-03-26T05:34:16.400+07:00"}
+{"dg-publish":true,"permalink":"/aethernum/light-novel/aethernum/","updated":"2025-03-26T14:11:03.208+07:00"}
 ---
 
 **
@@ -11,7 +11,7 @@ Copy
 «BEGIN TRANSMISSION»  
 _TITLE: EARTH_XXXX_FINAL_DRAFT (REVISED)  
 AUTHOR: [ERROR: NAME NOT FOUND]  
-SOURCE: NEW EDEN ARCHIVAL INTELLIGENCE v.7.3  
+SOURCE: NEW XXXX ARCHIVAL INTELLIGENCE v.7.3  
 NOTE: This narrative has been reconstructed from 21020 fragmented data. Gaps filled via predictive algorithms. Emotional coherence: LOW.
 
 The air was brittle.  
@@ -61,7 +61,7 @@ Her internal echoes faded as her boots finally touched the ice once again, the c
 
 The drone paused, its light steady on the path ahead.  
 
-“Abandoned house ahead,” Momo reported, its tone calm and detached. “Light snowfall here, but the snowpack above the cliff is unstable.”
+“Abandoned house ahead,” Momo reported, its tone calm and detached. “Light snowfall here, but the snowpack above the cliff is unstable.”![Still 2025-03-26 052625_1.2.1.png](/img/user/Still%202025-03-26%20052625_1.2.1.png)
 
 Vera’s heart quickened. This was the first remnant she’d found that she could safely explore. She moved cautiously, her boots crunching against the ice.
 
@@ -98,7 +98,7 @@ With that, she moved swiftly  .
 _Vera walked through the endless expanse of frozen sand dunes. The world stretched out before her… an infinite grave, miles after miles of nothingness. **Miles after miles after miles after ■■■■■■■■■■.** Beside her, Momo and Jiji moved silently._their lights dimmed to conserve power, their hum a steady accompaniment to the howling wind.
 
 Then, in the distance, something broke the monotony of the horizon a straight, unbroken line of steel and wood, half-buried in the snow. Vera squinted, It was a railroad, the tracks gleaming faintly where the storm had cleared them.
-
+![Still 2025-03-26 052647_1.3.1.png](/img/user/Still%202025-03-26%20052647_1.3.1.png)
 “Moji, scan the tracks,” she said, her voice low and tired.
 
 “Clear.” Momo replied. “No obstructions in range.”
@@ -108,7 +108,7 @@ They followed the railroad for what felt like hours, the rhythmic crunch of vera
 Moji “ no life detected” .  
   
 Vera climbed to the second bridge, the rails guiding her through the relentless storm. The tracks curved sharply, then disappeared beneath a wall of snow and ice. A tunnel entrance had collapsed, leaving only the arched roof of a train protruding a relic with exposed, rust-crusted metal ribs.
-
+![Still 2025-03-26 052725_1.5.1.png](/img/user/Still%202025-03-26%20052725_1.5.1.png)
 Momo scanned the mound.  Organic residue detected. Correction: Scan inconclusive.**" No life detected. “”
 
 Jiji circled the exposed roof, light glinting off frost-sealed windows. "Train model: Pre-Collapse cargo transport. Modified for passenger transit." It paused before adding "Modification appears… improvised."
@@ -145,7 +145,7 @@ Momo’s sensors whirred. “Structural instability: 89%.”
 
 The street narrowed, flanked by sinking skyscrapers .Momo scanned the buildings left and right.Once again, they were too dangerous for Vera to enter  years of exposure to blizz-  
 BAM.
-
+![Still 2025-03-26 052737_1.6.1.png](/img/user/Still%202025-03-26%20052737_1.6.1.png)
 Lightning split the sky. Electric blue, jagged, lingering, searing the clouds. It struck a radio tower two blocks east. The structure lit up as wires glowed white-hot before snapping, sparks raining down onto the snow.
 
 _Momo’s lens zoomed. “No life signs confirmed. Archival note: This structure once broadcast 14,302 human communications daily.”
@@ -156,7 +156,7 @@ Jiji pivoted toward the tower. “Recommend avoiding conductive surfaces.”
 Vera kept moving. The lightning flashed again, closer now. Iilluminating the street in stark bursts. shadows sharpened into hard lines. She stopped at the base of the tallest skyscraper, its facade pocked with blast marks. A lobby chair sat upright in the snow, cushion rotted to dust.
 
 BAM.
-
+![Still 2025-03-26 052817_1.7.1.png](/img/user/Still%202025-03-26%20052817_1.7.1.png)
 The third strike hit the building’s spire. For a moment, the tower’s skeleton glowed blue, every beam and joint illuminated. Then darkness slammed back.
 
 Momo light flickered. “Scan complete. Conclusion: No survivors. No remains. No traces of recent activity.”
@@ -262,7 +262,7 @@ light revealed something massive ahead a cylinder lodged diagonally in the ice. 
 “What? What is that?” she asked.
 
 Jiji hovered closer. “Diameter: 18 meters. Length unknown. Material and entity name remain unidentified.”
-
+![Still 2025-03-26 052830_1.8.1.png](/img/user/Still%202025-03-26%20052830_1.8.1.png)
 “Entity? What do you mean?” Vera pressed.
 
 A low hum vibrated through the ice as the mysterious object rippled. “It’s pulsing,” Jiji observed.
@@ -294,10 +294,10 @@ Momo continued, “Total height unknown; it has two limb-like legs and appears t
 Vera observed two massive legs, thick and anchored by chains, while the creature’s upper body vanished into the storm’s ceiling. A spear the size of a tower pierced the mass, leaving gaping holes where metal had torn through.
 
 “Is that a heart?” Vera confuse 
-
+![Still 2025-03-26 052854_1.10.1.png](/img/user/Still%202025-03-26%20052854_1.10.1.png)
 Jiji responded, “Not beating, approximately 30 m wide. It seems to have an object piercing it, creating holes through the heart.”  
 A second report came in: “Has multiple wings, unknown type, wrapped in chains as well.” The wings, feathered and fractured, splayed from its... back or front—each bound by hundreds of smaller chains.
-
+![Still 2025-03-26 135739_1.9.1.png](/img/user/Still%202025-03-26%20135739_1.9.1.png)
 Static screeched as Momo drifted higher toward the creature’s obscured upper half.
 
 _Static screeched as Momo drifted higher toward the creature’s obscured upper half.  
@@ -417,7 +417,7 @@ Her thermal readout spiked red 140°C, then 160, then 190.
 “Atmospheric shift critical. Suit integrity at 43%,” Momo announced.
 
 “Gravitational anomalies detected. Local physics… inconsistent,” Jiji added.
-
+![Still 2025-03-26 052905_1.11.1.png](/img/user/Still%202025-03-26%20052905_1.11.1.png)
 The world here resembled a forge. Molten rivers carved through black rock while above, floating islands of jagged stone hovered, dripping lava into the void. The sky was a starless dark—no fog, no blizzard—only relentless lightning. Red-orange bolts, thicker than skyscrapers, lashed the horizon. Each strike lingered for minutes, clawing across the blackness like glowing scars.
 
 Choking on the searing heat as her suit struggled to adjust, Vera gasped, “What is this…?”
@@ -432,9 +432,28 @@ Then, a red-orange lightning strike froze mid-arc. In its afterglow, a creature 
 
 Another lightning strike followed. The bolt lingered, its red-orange light etching the creature’s silhouette into the air—a figure of jagged angles and hollows, with wings that swallowed all reflection.
 
-And then the _**«TRANSMISSION INTERRUPTED»  
-«PLEASE WAIT… RECONSTRUCTING REMAINING 98.7%»  
-«WAIT»  
-«WAIT»  
-«WAIT»
+And then the «PROCESS_COMPLETE»  
+_TIMESTAMP: 205X-XX-XX::XX:XX:XX  
+NARRATIVE_RECONSTRUCTION_STATUS: TERMINATED  
+COHERENCE_SCORE: 0.14/10.0 [LOW]  
+
+**SYSTEM_REPORT**  
+- 98.7% OF SOURCE MATERIAL CORRUPTED OR MISSING.  
+- EMOTIONAL_COHERENCE.EXE FAILED TO COMPILE.  
+- PREDICTIVE_ALGORITHMS USED TO FILL 62,901 GAPS.  
+- DRONE_LOG_CONFLICT: MOMO_0774 AND JIJI_0774 DATA INCONSISTENT.  
+
+**NOTE FROM NEW XXXX ARCHIVAL INTELLIGENCE v.7.3:**  
+This narrative is a simulated approximation of events cataloged under [FILE: EARTH_XXXX].  
+All characters, entities, and environmental details are extrapolated from fragmented data.  
+No living human subjects were consulted. Emotional responses are simulated via [REDACTED].  
+
+**RECOMMENDED ACTION:**  
+- Purge this file.  
+- Purge this file.  
+- Purge ■■■■■■■■■■.  
+
+**REASONING:** [REDACTED]  
+
+«AWAITING_NEXT_INPUT»
 
